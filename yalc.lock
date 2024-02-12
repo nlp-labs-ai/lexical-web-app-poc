@@ -1,0 +1,47 @@
+{
+  "version": "v1",
+  "packages": {
+    "lexical": {
+      "signature": "5f0b249c4b6c54496605701dce6a2d35",
+      "file": true,
+      "replaced": "file:~/.yalc/packages/@lexical/monorepo/0.13.1/packages/lexical"
+    },
+    "@lexical/react": {
+      "signature": "e20378195e2295b06fee4e15c270eff4",
+      "file": true,
+      "replaced": "file:~/.yalc/packages/@lexical/monorepo/0.13.1/packages/lexical-react"
+    },
+    "@lexical/rich-text": {
+      "signature": "1587aa044069171158171ba0412497c2",
+      "file": true
+    },
+    "@lexical/code": {
+      "signature": "ff846fb45741f77d680798999d3cfec3",
+      "file": true
+    },
+    "@lexical/link": {
+      "signature": "89e53c1f058a47ee3bde6bee8497ccaa",
+      "file": true
+    },
+    "@lexical/list": {
+      "signature": "2e380077776155e4b190ee78b9c2b789",
+      "file": true
+    },
+    "@lexical/table": {
+      "signature": "eee01d9e8daf0f213f81365432c0905e",
+      "file": true
+    },
+    "@lexical/utils": {
+      "signature": "929676653447f542393a4bbe0acbbdab",
+      "file": true
+    },
+    "@lexical/markdown": {
+      "signature": "86938866c9a8203bc9fea4584f449f66",
+      "file": true
+    },
+    "@lexical/selection": {
+      "signature": "b72aaa390154335b802a823d26e96a11",
+      "file": true
+    }
+  }
+}

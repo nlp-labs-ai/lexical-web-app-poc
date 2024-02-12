@@ -1,0 +1,38 @@
+{
+  "name": "lexical-rich-text-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@craco/craco": "^7.1.0",
+    "@lexical/code": "file:.yalc/@lexical/code",
+    "@lexical/link": "file:.yalc/@lexical/link",
+    "@lexical/list": "file:.yalc/@lexical/list",
+    "@lexical/markdown": "file:.yalc/@lexical/markdown",
+    "@lexical/react": "file:.yalc/@lexical/react",
+    "@lexical/rich-text": "file:.yalc/@lexical/rich-text",
+    "@lexical/selection": "file:.yalc/@lexical/selection",
+    "@lexical/table": "file:.yalc/@lexical/table",
+    "@lexical/utils": "file:.yalc/@lexical/utils",
+    "lexical": "file:.yalc/lexical",
+    "prismjs": "^1.29.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
